@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Notes2</string>
+    <string name="add_note">Добавить заметку</string>
+    <string name="what_to_do">Что б такого сделать?</string>
+    <string name="very_imp">Суперважно</string>
+    <string name="imp">Важно</string>
+    <string name="not_imp">Второстепенно</string>
+    <string name="title_hint">Название заметки</string>
+    <string name="aw">Супер важно</string>
+    <string name="warning_empty_fields">Все поля должны быть заполнены</string>
+    <string-array name="days_of_week">
+        <item>понедельник</item>
+        <item>вторник</item>
+        <item>среда</item>
+        <item>четверг</item>
+        <item>пятница</item>
+        <item>суббота</item>
+        <item>воскресенье</item></string-array>
+</resources>
